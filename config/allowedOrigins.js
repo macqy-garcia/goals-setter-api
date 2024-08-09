@@ -1,4 +1,3 @@
-export const allowedOrigins = [
-    'https://technotes.onrender.com'
-]
+const allowedOrigins = ['https://goals-setter-0flz.onrender.com'];
 
+module.exports = allowedOrigins;
