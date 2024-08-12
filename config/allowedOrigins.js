@@ -1,3 +1,3 @@
-const allowedOrigins = ['https://goals-setter-0flz.onrender.com'];
+const allowedOrigins = [process.env.RENDER_SITE];
 
 module.exports = allowedOrigins;
